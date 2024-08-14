@@ -13,7 +13,7 @@
 <h2>📃 Certifications</h2>
 
 - <b>Stanford Code in Place</b>
-  - [Certificate](https://stanford.com)
+  - [Certificate](https://codeinplace.stanford.edu/cip3/certificate/clr2kv)
 - <b>The Web Development Bootcamp</b>
   - [Certificate](https://udemy.com)
  
