@@ -3,7 +3,7 @@
 <h2>💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Stanford Code in Place](https://github.com/mikaebal/stanford/tree/main/Week7-Final-Project)
+  - [Stanford Code in Place](https://github.com/mikaebal/stanford/tree/main)
   - Karel, Tkinter (Canvas Module), Control Flow, Data Structures, Console Programming.
 - <b>Web Development</b>
   - Full Stack 
