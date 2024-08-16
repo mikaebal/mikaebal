@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mikaela! <br/><a href="https://github.com/mikaebal">Programmer</a> 👩🏻‍💻<a href="https://www.linkedin.com"></a></h1>
 
-<h2>💻 Software Development Projects:</h2>
+<h2>💻 Software Development Projects</h2>
 
 - <b>Python</b>
   - [Stanford Code in Place](https://github.com/mikaebal/stanford/tree/main)
@@ -25,7 +25,7 @@
  
 
 
-<h2> 📱 Connect with me:</h2>
+<h2> 📱 Connect with me</h2>
 
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
