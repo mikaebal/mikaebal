@@ -3,19 +3,25 @@
 <h2>💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Stanford Final Project](https://github.com/mikaebal/stanford/tree/main/Week7-Final-Project)
-- <b>Full Stack Website (React, NodeJS, Azure, and Machine Learning Components)</b>
-  -  [YelpCamp](https://udemy.com)
-- <b>Front End Website</b>
-  - [Silicon Seconds GPU Marketplace](https://siliconseconds.com)
+  - [Stanford Code in Place](https://github.com/mikaebal/stanford/tree/main/Week7-Final-Project)
+  - Karel, Tkinter (Canvas Module), Control Flow, Data Structures, Console Programming.
+- <b>Web Development</b>
+  - Full Stack 
+    - [YelpCamp](https://udemy.com)
+    -  Node.js, Express, MongoDB, Mongoose, Bootstrap, Passport.js, Cloudinary, Mapbox.
+  - Front-End 
+    - [Pricing Panel](https://udemy.com)
+    - [Museum of Candy](https://udemy.com)
+- <b>Custom Website</b>
+  - [GPU Marketplace](https://siliconseconds.com)
+  - WordPress, Customized Third-Party Theme, Plugins, HTML/CSS.
 
  
 <h2>📃 Certifications</h2>
 
-- <b>Stanford Code in Place</b>
-  - [Certificate](https://codeinplace.stanford.edu/cip3/certificate/clr2kv)
-- <b>The Web Development Bootcamp</b>
-  - [Certificate](https://udemy.com)
+- [Stanford Code in Place](https://codeinplace.stanford.edu/cip3/certificate/clr2kv)
+- [The Web Developer Bootcamp](https://udemy.com)
+
  
 
 
