@@ -10,8 +10,9 @@
     - [YelpCamp](https://udemy.com)
     -  Node.js, Express, MongoDB, Mongoose, Bootstrap, Passport.js, Cloudinary, Mapbox.
   - Front-End 
-    - [Pricing Panel](https://udemy.com)
+    - [Pricing Panel](https://udemy.com](https://github.com/mikaebal/price-table-project))
     - [Museum of Candy](https://udemy.com)
+    - [Score Keeper](https://udemy.com)
 - <b>Custom Website</b>
   - [GPU Marketplace](https://siliconseconds.com)
   - WordPress, Customized Third-Party Theme, Plugins, HTML/CSS.
