@@ -30,7 +30,6 @@
 <h2>📃 Certifications</h2>
 
 - [Stanford Code in Place](https://codeinplace.stanford.edu/cip3/certificate/clr2kv)
-- [The Web Developer Bootcamp](https://udemy.com)
 
 </br>
 
