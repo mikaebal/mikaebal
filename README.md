@@ -29,7 +29,7 @@
  
 <h2>📃 Certifications</h2>
 
-- [Stanford Code in Place](https://codeinplace.stanford.edu/cip3/certificate/clr2kv)
+- [Stanford University](https://codeinplace.stanford.edu/cip3/certificate/clr2kv)
 
 </br>
 
