@@ -17,7 +17,7 @@
 <h3>Custom Website</h3>
 
   - [GPU Marketplace](https://github.com/mikaebal/gpu-marketplace): A custom WordPress marketplace with extensive theme customization.
-    - WordPress, Customized Third-Party Theme, Plugins, HTML/CSS.
+    - WordPress, Customized Third-Party Theme, Plugins, HTML, CSS.
 
 
  
