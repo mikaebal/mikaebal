@@ -4,7 +4,7 @@
 
 <h3>Python</h3>
 
-- [Stanford Code in Place](https://github.com/mikaebal/stanford/tree/main): A series of coding challenges that progressively build programming skills, culminating in an interactive final project.
+- [Stanford Code in Place](https://github.com/mikaebal/stanford/blob/main/README.md): A series of coding challenges that progressively build programming skills, culminating in an interactive [final project](https://github.com/mikaebal/stanford/tree/main/Week7-Final-Project).
     - Karel, Tkinter (Canvas Module), Control Flow, Data Structures, Console Programming.
  
 <h3>Web Development</h3>
@@ -16,7 +16,7 @@
      
 <h3>Custom Website</h3>
 
-  - [GPU Marketplace](https://siliconseconds.com): A custom WordPress marketplace with extensive theme customization.
+  - [GPU Marketplace](https://github.com/mikaebal/gpu-marketplace): A custom WordPress marketplace with extensive theme customization.
     - WordPress, Customized Third-Party Theme, Plugins, HTML/CSS.
 
 </br>
