@@ -29,6 +29,8 @@
 
 <h2> 📱 Connect with me</h2>
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mikaelabaluyot/)
-&nbsp;
+[<img align="left" alt="MikaelaBaluyot | LinkedIn" width="62px" src="https://img.icons8.com/?size=100&id=64154&format=png&color=000000"/>][linkedin]
+
+[linkedin]: https://linkedin.com/in/mikaelabaluyot
+
 
