@@ -27,9 +27,9 @@
 
 </br>
 
-<h2><img align="center" alt="connecticon" width="65px" src="https://img.icons8.com/?size=100&id=116722&format=png&color=000000"/> Connect with me</h2>
+<h2><img align="center" alt="connecticon" width="65px" src="https://img.icons8.com/?size=100&id=116722&format=png&color=000000"/> Connect With Me</h2>
 
-[<img align="left" alt="MikaelaBaluyot" width="60px" src="https://img.icons8.com/?size=100&id=64154&format=png&color=000000"/>][linkedin]
+[<img align="left" alt="MikaelaBaluyot" width="50px" src="https://img.icons8.com/?size=100&id=67570&format=png&color=000000"/>][linkedin]
 
 [linkedin]: https://linkedin.com/in/mikaelabaluyot
 
