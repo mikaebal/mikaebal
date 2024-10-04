@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mikaela!  <img align="center" alt="mikaela" width="55px" src="https://img.icons8.com/?size=100&id=OBqi6P3ukGoL&format=png&color=000000"/> </h1>
+<h1>Hi, I'm Mikaela!  <img align="center" alt="mikaela" width="50px" src="https://img.icons8.com/?size=100&id=OBqi6P3ukGoL&format=png&color=000000"/> </h1>
 
 <h2><img align="center" alt="programmingicon" width="65px" src="https://img.icons8.com/?size=100&id=3BtkDrfVvCW9&format=png&color=000000"/> Software Development Projects</h2>
 
