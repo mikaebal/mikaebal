@@ -19,13 +19,13 @@
   - [GPU Marketplace](https://github.com/mikaebal/gpu-marketplace): A custom WordPress marketplace with extensive theme customization.
     - WordPress, Customized Third-Party Theme, Plugins, HTML, CSS.
 
-</br>
+
  
 <h2><img align="center" alt="certificateicon" width="65px" src="https://img.icons8.com/?size=100&id=116725&format=png&color=000000"/> Certifications</h2>
 
 - [Stanford University](https://codeinplace.stanford.edu/cip3/certificate/clr2kv)
 
-</br>
+
 
 <h2><img align="center" alt="connecticon" width="65px" src="https://img.icons8.com/?size=100&id=116722&format=png&color=000000"/> Connect With Me</h2>
 
