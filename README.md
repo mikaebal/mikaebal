@@ -5,7 +5,7 @@
 <h3>Python</h3>
 
 - [Stanford Code in Place](https://github.com/mikaebal/stanford/blob/main/README.md): A series of coding challenges that progressively build programming skills, culminating in an interactive [final project](https://github.com/mikaebal/stanford/tree/main/Week7-Final-Project).
-    - Karel, Tkinter (Canvas Module), Control Flow, Data Structures, Console Programming.
+    - Python, Karel, Tkinter (Canvas Module), Control Flow, Data Structures, Console Programming.
  
 <h3>Web Development</h3>
 
