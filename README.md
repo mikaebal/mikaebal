@@ -1,36 +1,54 @@
-<h1>Hi, I'm Mikaela!  <img align="center" alt="mikaela" width="48px" src="https://img.icons8.com/?size=100&id=OBqi6P3ukGoL&format=png&color=000000"/> </h1>
+# 👩‍💻 Mikaela Baluyot
 
-<h2><img align="center" alt="programmingicon" width="65px" src="https://img.icons8.com/?size=100&id=3BtkDrfVvCW9&format=png&color=000000"/> Software Development Projects</h2>
+**`Aspiring Software Engineer`**
 
-<h3>Python</h3>
+Hello, world! I’m Mikaela, a creative problem-solver excited to craft digital experiences that inspire and empower.
+
+🌱 **Exploring:** New programming languages<br>
+🎨 **Building:** Personal projects<br>
+✨ **Learning:** Online courses and tutorials
+
+
+ <p align="left">
+      <a href="https://www.linkedin.com/in/mikaelabaluyot/">
+         <img alt="linkedinlink" title="Let's Connect!" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+     
+---
+
+### 🛠️ Languages and Tools
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<br />
+
+#
+
+### 🌟 My Projects
+
+**Python**
 
 - [Stanford Code in Place](https://github.com/mikaebal/stanford/blob/main/README.md): A series of coding challenges that progressively build programming skills, culminating in an interactive [final project](https://github.com/mikaebal/stanford/tree/main/Week7-Final-Project).
     - Python, Karel, Tkinter (Canvas Module), Control Flow, Data Structures, Console Programming.
  
-<h3>Web Development</h3>
+**Web Development**
 
   - <b>Front-End</b> 
     - [Pricing Panel](https://github.com/mikaebal/price-table-project): A responsive pricing table component.
       - HTML, CSS.
 
      
-<h3>Custom Website</h3>
+**Custom Website**
 
   - [GPU Marketplace](https://github.com/mikaebal/gpu-marketplace): A custom WordPress marketplace with extensive theme customization.
     - WordPress, Customized Third-Party Theme, Plugins, HTML, CSS.
 
+#
 
- 
-<h2><img align="center" alt="certificateicon" width="65px" src="https://img.icons8.com/?size=100&id=116725&format=png&color=000000"/> Certifications</h2>
-
-- [Stanford University](https://codeinplace.stanford.edu/cip3/certificate/clr2kv)
-
-
-
-<h2><img align="center" alt="connecticon" width="65px" src="https://img.icons8.com/?size=100&id=116722&format=png&color=000000"/> Connect With Me</h2>
-
-[<img align="left" alt="MikaelaBaluyot" width="50px" src="https://img.icons8.com/?size=100&id=67570&format=png&color=000000"/>][linkedin]
-
-[linkedin]: https://linkedin.com/in/mikaelabaluyot
-
-
+<details>
+ <summary><h3>🚀 My Coding Journey</h3></summary>
+   I unknowingly dabbled in coding while customizing my MySpace page way back when. Later in life, I discovered my passion through Stanford's Code in Place. Now, I’m focused on building dynamic full-stack applications and constantly learning new skills. Join me on my journey in tech!
+</details>
