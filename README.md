@@ -48,10 +48,11 @@ Hello, world! I’m Mikaela, a creative problem-solver excited to craft digital 
        - HTML, CSS.
    
   - **Full-Stack**
-     - [Mikaela's Blog](https://dash.generalassemb.ly/mikaebal/build-your-own-blog-theme): A responsive wellness blog with a notification pop-up on button click.
-       - Javascript, HTML, CSS.
-     - [Mikaela's Kitchen](https://dash.generalassemb.ly/mikaebal/build-your-own-business-website): A Filipino restaurant website featuring an interactive menu.
+    - [Mikaela's Kitchen](https://dash.generalassemb.ly/mikaebal/build-your-own-business-website): A Filipino restaurant website featuring an interactive menu.
        - jQuery (JavaScript), HTML, CSS.
+    - [Mikaela's Blog](https://dash.generalassemb.ly/mikaebal/build-your-own-blog-theme): A responsive wellness blog with a notification pop-up on button click.
+       - Javascript, HTML, CSS.
+
 
      
 ***Custom Website***
