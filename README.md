@@ -36,7 +36,7 @@ Hello, world! I’m Mikaela, a creative problem-solver excited to craft digital 
 
 ***Python***
 
-- [Stanford Code in Place](https://github.com/mikaebal/stanford/blob/main/README.md): A series of coding challenges that progressively build programming skills, culminating in an interactive [final project](https://github.com/mikaebal/stanford/tree/main/Week7-Final-Project).
+- [Stanford Code in Place](https://github.com/mikaebal/stanford/blob/main/README.md): A series of coding challenges that progressively build programming skills, culminating in a [final project](https://github.com/mikaebal/stanford/tree/main/Week7-Final-Project).
     - Python, Karel, Tkinter, Control Flow, Data Structures, Console Programming.
  
 ***Web Development***
