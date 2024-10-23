@@ -7,7 +7,6 @@ Hello, world! I’m Mikaela, a creative problem-solver excited to craft digital 
 🌱 **Exploring:** New programming languages<br>
 🎨 **Building:** Personal projects<br>
 ✨ **Learning:** Online courses and tutorials
-<br>
 
 <details>
  <summary><h4>🚀 My Coding Journey</h4></summary>
@@ -35,12 +34,12 @@ Hello, world! I’m Mikaela, a creative problem-solver excited to craft digital 
 
 ### 🌟 My Projects
 
-**Python**
+***Python***
 
 - [Stanford Code in Place](https://github.com/mikaebal/stanford/blob/main/README.md): A series of coding challenges that progressively build programming skills, culminating in an interactive [final project](https://github.com/mikaebal/stanford/tree/main/Week7-Final-Project).
     - Python, Karel, Tkinter, Control Flow, Data Structures, Console Programming.
  
-**Web Development**
+***Web Development***
 
   - **Front-End**
     - [Pricing Panel](https://github.com/mikaebal/price-table-project): A responsive pricing table component.
@@ -55,7 +54,7 @@ Hello, world! I’m Mikaela, a creative problem-solver excited to craft digital 
        - jQuery (JavaScript), HTML, CSS.
 
      
-**Custom Website**
+***Custom Website***
 
   - [GPU Marketplace](https://github.com/mikaebal/gpu-marketplace): A custom WordPress marketplace with extensive theme customization.
     - WordPress, Customized Third-Party Theme, Plugins, HTML, CSS.
