@@ -60,4 +60,4 @@ Hello, world! I’m Mikaela, a creative problem-solver excited to craft digital 
   - [GPU Marketplace](https://github.com/mikaebal/gpu-marketplace): A custom WordPress marketplace with extensive theme customization.
     - WordPress, Customized Third-Party Theme, Plugins, HTML, CSS.
 
-
+<br />
