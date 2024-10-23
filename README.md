@@ -38,13 +38,21 @@ Hello, world! I’m Mikaela, a creative problem-solver excited to craft digital 
 **Python**
 
 - [Stanford Code in Place](https://github.com/mikaebal/stanford/blob/main/README.md): A series of coding challenges that progressively build programming skills, culminating in an interactive [final project](https://github.com/mikaebal/stanford/tree/main/Week7-Final-Project).
-    - Python, Karel, Tkinter (Canvas Module), Control Flow, Data Structures, Console Programming.
+    - Python, Karel, Tkinter, Control Flow, Data Structures, Console Programming.
  
 **Web Development**
 
-  - <b>Front-End</b> 
+  - **Front-End**
     - [Pricing Panel](https://github.com/mikaebal/price-table-project): A responsive pricing table component.
-      - HTML, CSS.
+       - HTML, CSS.
+    - [My Landing Page](https://dash.generalassemb.ly/mikaebal/build-your-own-personal-website): A landing page inviting visitors to stay connected.
+       - HTML, CSS.
+   
+  - **Full-Stack**
+     - [Mikaela's Blog](https://dash.generalassemb.ly/mikaebal/build-your-own-blog-theme): A wellness blog with a notification pop-up on button click.
+       - Javascript, HTML, CSS.
+     - [Mikaela's Kitchen](https://dash.generalassemb.ly/mikaebal/build-your-own-business-website): A Filipino restaurant featuring an interactive menu.
+       - jQuery (JavaScript), HTML, CSS.
 
      
 **Custom Website**
