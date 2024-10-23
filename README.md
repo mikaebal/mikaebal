@@ -7,6 +7,12 @@ Hello, world! I’m Mikaela, a creative problem-solver excited to craft digital 
 🌱 **Exploring:** New programming languages<br>
 🎨 **Building:** Personal projects<br>
 ✨ **Learning:** Online courses and tutorials
+<br>
+
+<details>
+ <summary><h4>🚀 My Coding Journey</h4></summary>
+   I unknowingly dabbled in coding while customizing my MySpace page way back when. Later in life, I discovered my passion through Stanford's Code in Place. Now, I’m focused on building dynamic full-stack applications and constantly learning new skills. Join me on my journey in tech!
+</details>
 
 
  <p align="left">
@@ -46,9 +52,4 @@ Hello, world! I’m Mikaela, a creative problem-solver excited to craft digital 
   - [GPU Marketplace](https://github.com/mikaebal/gpu-marketplace): A custom WordPress marketplace with extensive theme customization.
     - WordPress, Customized Third-Party Theme, Plugins, HTML, CSS.
 
-#
 
-<details>
- <summary><h3>🚀 My Coding Journey</h3></summary>
-   I unknowingly dabbled in coding while customizing my MySpace page way back when. Later in life, I discovered my passion through Stanford's Code in Place. Now, I’m focused on building dynamic full-stack applications and constantly learning new skills. Join me on my journey in tech!
-</details>
