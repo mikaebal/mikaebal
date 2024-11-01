@@ -1,8 +1,10 @@
-# 👩‍💻 Mikaela Baluyot
+![mikaebalbanner](https://github.com/user-attachments/assets/9199a496-2105-4794-a2fb-94610323b265)
+
+# 👩‍💻 I'm Mikaela!
 
 **`Aspiring Software Engineer`**
 
-Hello, world! I’m Mikaela, a creative problem-solver excited to craft digital experiences that inspire and empower.
+Hello, world! I’m a creative problem-solver excited to craft digital experiences that inspire and empower.
 
 🌱 **Exploring:** New programming languages<br>
 🎨 **Building:** Personal projects<br>
