@@ -1,6 +1,6 @@
 ![mikaebalbanner](https://github.com/user-attachments/assets/02a7c2e4-fc7b-4eca-9d0e-41782f04e5ac)
 
-# 👩‍💻 Mikaela Baluyot
+# 👩🏻‍💻 Mikaela Baluyot
 
 **`Aspiring Software Engineer`**
 
