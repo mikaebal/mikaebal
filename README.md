@@ -19,6 +19,8 @@ Hello, world! I'm Mikaela, a creative problem-solver excited to craft digital ex
  <p align="left">
       <a href="https://www.linkedin.com/in/mikaelabaluyot/">
          <img alt="linkedinlink" title="Let's Connect!" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+       <a href="mailto:codermikaela@gmail.com">
+         <img alt="gmaillink" title="Email Me!" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
      
 ---
 
