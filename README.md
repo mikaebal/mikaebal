@@ -46,7 +46,7 @@ Hello, world! I'm Mikaela, a creative problem-solver excited to craft digital ex
 
   - **Front-End**
     - [Pricing Panel](https://github.com/mikaebal/price-table-project): A responsive pricing table for subscription plans.
-    - [My Landing Page](https://github.com/mikaebal/landing-page): A landing page inviting visitors to stay connected.
+    - [My Landing Page](https://dash.generalassemb.ly/mikaebal/build-your-own-personal-website): A landing page inviting visitors to stay connected.
    
   - **Full-Stack**
     - [Mikaela's Kitchen](https://github.com/mikaebal/restaurant-website): A Filipino restaurant website featuring an interactive menu.
