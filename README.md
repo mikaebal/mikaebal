@@ -49,7 +49,7 @@ Hello, world! I'm Mikaela, a creative problem-solver excited to craft digital ex
     - [My Landing Page](https://dash.generalassemb.ly/mikaebal/build-your-own-personal-website): A landing page inviting visitors to stay connected.
    
   - **Full-Stack**
-    - [Mikaela's Kitchen](https://dash.generalassemb.ly/mikaebal/build-your-own-business-website): A Filipino restaurant website featuring an interactive menu.
+    - [Mikaela's Kitchen](https://github.com/mikaebal/restaurant-website): A Filipino restaurant website featuring an interactive menu.
     - [Mikaela's Blog](https://dash.generalassemb.ly/mikaebal/build-your-own-blog-theme): A responsive wellness blog with a notification pop-up on button click.
   
 🎨 ***Custom Website***
