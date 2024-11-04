@@ -6,9 +6,9 @@
 
 Hello, world! I'm Mikaela, a creative problem-solver excited to craft digital experiences that inspire and empower.
 
-🌱 **Exploring:** New programming languages<br>
-🎨 **Building:** Personal projects<br>
-✨ **Learning:** Online courses and tutorials
+🌎 **Exploring:** New programming languages<br>
+👷🏻‍♀️ **Building:** Personal projects<br>
+🧠  **Learning:** Online courses and tutorials
 
 <details>
  <summary><h4>🚀 My Coding Journey</h4></summary>
@@ -36,30 +36,22 @@ Hello, world! I'm Mikaela, a creative problem-solver excited to craft digital ex
 
 #
 
-### 🌟 My Projects
+### ✨ My Projects
 
-***Python***
+🐍 ***Python***
 
 - [Stanford Code in Place](https://github.com/mikaebal/stanford/blob/main/README.md): A series of coding challenges that progressively build programming skills, culminating in a [final project](https://github.com/mikaebal/stanford/tree/main/Week7-Final-Project).
-    - Python, Karel, Tkinter, Control Flow, Data Structures, Console Programming.
  
-***Web Development***
+🌐 ***Web Development***
 
   - **Front-End**
     - [Pricing Panel](https://github.com/mikaebal/price-table-project): A responsive pricing table for subscription plans.
-       - HTML, CSS.
     - [My Landing Page](https://dash.generalassemb.ly/mikaebal/build-your-own-personal-website): A landing page inviting visitors to stay connected.
-       - HTML, CSS.
    
   - **Full-Stack**
     - [Mikaela's Kitchen](https://dash.generalassemb.ly/mikaebal/build-your-own-business-website): A Filipino restaurant website featuring an interactive menu.
-       - jQuery (JavaScript), HTML, CSS.
     - [Mikaela's Blog](https://dash.generalassemb.ly/mikaebal/build-your-own-blog-theme): A responsive wellness blog with a notification pop-up on button click.
-       - Javascript, HTML, CSS.
-
-
-     
-***Custom Website***
+  
+🎨 ***Custom Website***
 
   - [GPU Marketplace](https://github.com/mikaebal/gpu-marketplace): A custom WordPress marketplace with extensive theme customization.
-    - WordPress, Customized Third-Party Theme, Plugins, HTML, CSS.
