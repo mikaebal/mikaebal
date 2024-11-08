@@ -33,6 +33,7 @@ Hello, world! I'm Mikaela, a creative problem-solver excited to craft digital ex
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="VSCode" title="VS Code" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+<img align="left" alt="WordPress" title="WordPress" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=v9uZbuVoWleB&format=png&color=000000" />
 <br />
 
 #
