@@ -26,14 +26,14 @@ Hello, world! I'm Mikaela, a creative problem-solver excited to craft digital ex
 
 ### 🛠️ Languages and Tools
 
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px; margin-bottom: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px; margin-bottom: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px; margin-bottom: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px; margin-bottom: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px; margin-bottom: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px; margin-bottom: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="VSCode" title="VS Code" width="30px" style="padding-right:10px; margin-bottom: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
-<img align="left" alt="WordPress" title="WordPress" width="30px" style="padding-right:10px; margin-bottom: 5px;" src="https://img.icons8.com/?size=100&id=v9uZbuVoWleB&format=png&color=000000" />
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px; margin-bottom: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px; margin-bottom: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px; margin-bottom: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px; margin-bottom: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px; margin-bottom: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px; margin-bottom: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="VSCode" title="VS Code" width="30px" style="padding-right:10px; margin-bottom: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+<img align="left" alt="WordPress" title="WordPress" width="30px" style="padding-right:10px; margin-bottom: 10px;" src="https://img.icons8.com/?size=100&id=v9uZbuVoWleB&format=png&color=000000" />
 <br />
 
 #
