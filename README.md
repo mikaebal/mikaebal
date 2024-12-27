@@ -40,6 +40,10 @@ Hello, world! I'm Mikaela, a creative problem-solver excited to craft digital ex
 
 ### ✨ My Projects
 
+🌟 ***Featured***
+
+- Coming Soon!
+
 🐍 ***Python***
 
 - [Stanford Code in Place](https://github.com/mikaebal/stanford/blob/main/README.md): A series of coding challenges that progressively build programming skills, culminating in a [final project](https://github.com/mikaebal/stanford/tree/main/Week7-Final-Project).
