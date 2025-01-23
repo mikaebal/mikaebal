@@ -42,7 +42,7 @@ Hello, world! I'm Mikaela, a creative problem-solver excited to craft digital ex
 
 🌟 ***Featured***
 
-- Coming Soon!
+- [Museum of Candy](https://github.com/mikaebal/candy-museum-site): A responsive candy-themed museum website built with Bootstrap 4.
 
 🐍 ***Python***
 
