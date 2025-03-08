@@ -6,9 +6,9 @@
 
 Hello, world! I'm Mikaela, a creative problem-solver excited to craft digital experiences that inspire and empower.
 
-🌎 **Exploring:** New programming languages<br>
-👷🏻‍♀️ **Building:** Personal projects<br>
-🧠  **Learning:** Online courses and tutorials
+🌎 **Exploring:** Full-stack web development<br>
+👷🏻‍♀️ **Building:** User-centric applications<br>
+🧠 **Learning:** Software development & computer science
 
 <details>
  <summary><h4>🚀 My Coding Journey</h4></summary>
