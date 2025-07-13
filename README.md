@@ -2,7 +2,7 @@
 
 # 👩🏻‍💻 Mikaela Baluyot
 
-**`SWE in Training @ Ada Developers Academy`**
+**`SWE Apprentice @ Ada Developers Academy`**
 
 Hello, world! I'm Mikaela, a creative problem-solver excited to craft digital experiences that inspire and empower.
 
