@@ -42,11 +42,11 @@ Hello, world! I'm Mikaela, a creative problem-solver excited to craft digital ex
 
 🌟 ***Featured***
 
-- [Museum of Candy](https://github.com/mikaebal/candy-museum-site): A responsive candy-themed museum website built with Bootstrap 4.
-
-🐍 ***Python***
-
-- [Stanford Code in Place](https://github.com/mikaebal/stanford/blob/main/README.md): A series of coding challenges that progressively build programming skills, culminating in a [final project](https://github.com/mikaebal/stanford/tree/main/Week7-Final-Project).
+- [Task List API](https://github.com/mikaebal/task-list-api): A Flask API for managing tasks and goals, with Slack notifications.
+- [Weather Report](https://github.com/mikaebal/weather-report): A weather app using JavaScript and OpenWeatherMap API.
+- [Group Fansite](https://github.com/mikaebal/group-fansite): A responsive travel site featuring Greece, built with HTML and CSS.
+- [Stanford Code in Place](https://github.com/mikaebal/stanford/blob/main/README.md): A series of coding challenges, culminating in a [final project](https://github.com/mikaebal/stanford/tree/main/Week7-Final-Project).
+- [iYap](https://github.com/mikaebal/react-chatlog): iMessage inspired chat UI built in React.
  
 🌐 ***Web Development***
 
@@ -54,6 +54,7 @@ Hello, world! I'm Mikaela, a creative problem-solver excited to craft digital ex
 - [Pricing Panel](https://github.com/mikaebal/price-table-project): A responsive pricing table for subscription plans.
 - [My Landing Page](https://github.com/mikaebal/landing-page): A landing page inviting visitors to stay connected.
 - [Mikaela's Blog](https://github.com/mikaebal/responsive-blog): A responsive wellness blog with a notification pop-up on button click.
+- [Museum of Candy](https://github.com/mikaebal/candy-museum-site): A responsive candy-themed museum website built with Bootstrap 4.
   
 🎨 ***Custom Website***
 
