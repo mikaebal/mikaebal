@@ -42,6 +42,7 @@ Hello, world! I'm Mikaela, a creative problem-solver excited to craft digital ex
 
 🌟 ***Featured***
 
+- [Inspo Board](https://github.com/mikaebal/inspo-board): A full-stack, mood-based inspiration board app built with React and Flask.
 - [Task List API](https://github.com/mikaebal/task-list-api): A Flask API for managing tasks and goals, with Slack notifications.
 - [Weather Report](https://github.com/mikaebal/weather-report): A weather app using JavaScript and OpenWeatherMap API.
 - [Group Fansite](https://github.com/mikaebal/group-fansite): A responsive travel site featuring Greece, built with HTML and CSS.
