@@ -40,6 +40,9 @@ Hello, world! I'm Mikaela, a creative problem-solver excited to craft digital ex
 
 ### ✨ My Projects
 
+🏆 ***Capstone***
+- [TimeBank](https://github.com/florasmile/timebanking-backend): A full-stack community timebanking platform built with React, TypeScript, Django, and PostgreSQL.
+
 🌟 ***Featured***
 
 - [Inspo Board](https://github.com/mikaebal/inspo-board): A full-stack, mood-based inspiration board app built with React and Flask.
