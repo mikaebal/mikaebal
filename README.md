@@ -2,7 +2,7 @@
 
 # 👩🏻‍💻 Mikaela Baluyot
 
-**`SWE Apprentice @ Ada Developers Academy`**
+**`SDE Apprentice @ Amazon (AWS)`**
 
 Hello, world! I'm Mikaela, a creative problem-solver excited to craft digital experiences that inspire and empower.
 
