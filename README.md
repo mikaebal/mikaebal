@@ -2,13 +2,13 @@
 
 # 👩🏻‍💻 Mikaela Baluyot
 
-**`SDE Apprentice @ Amazon Web Services (AWS)`**
+**`SDE @ Amazon Web Services (AWS)`**
 
 Hello, world! I'm Mikaela, a software dev engineer working on backend and data engineering for large-scale cloud storage ☁️
 
-📊 **Working with:** SQL, Java, Amazon Redshift, AWS Lambda, Amazon QuickSight  
-👷🏻‍♀️ **Building:** Production data models, ETL transformations, and monitoring for S3 and EC2  
-📡 **Focusing on:** Reliability, performance, and analytics for cloud services
+📊 **Working with:** SQL, Java, Amazon Redshift, Amazon QuickSight, AWS Lambda, Amazon CloudWatch  
+👷🏻‍♀️ **Building:** Prod SQL views, interactive dashboards, automated alerts
+📡 **Focusing on:** Reliability, performance, and analytics for S3 
 
 <details>
  <summary><h4>🚀 My Coding Journey</h4></summary>
