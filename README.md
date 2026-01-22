@@ -6,8 +6,10 @@
 
 Hello, world! I'm Mikaela, a software dev engineer working on backend and data engineering for large-scale cloud storage ☁️
 
-📊 **Working with:** SQL, Java, Amazon Redshift, Amazon QuickSight, AWS Lambda, Amazon CloudWatch  
+📊 **Working with:** SQL, Java, Amazon Redshift, Amazon QuickSight, AWS Lambda, Amazon CloudWatch
+
 👷🏻‍♀️ **Building:** Prod SQL views, interactive dashboards, automated alerts
+
 📡 **Focusing on:** Reliability, performance, and analytics for S3 
 
 <details>
